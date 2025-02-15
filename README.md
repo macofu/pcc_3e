@@ -1,12 +1,12 @@
-Python Crash Course - Third Edition
+Python Crash Course - Tercera edición
 ===
 
-A Hands-On, Project-Based Introduction to Programming
+Introducción práctica a la programación basada en proyectos
 ---
 
-This is a collection of resources for [Python Crash Course, Third Edition](https://nostarch.com/python-crash-course-3rd-edition), an introductory programming book from [No Starch Press](https://nostarch.com) by Eric Matthes. Click here for a [much cleaner version](https://ehmatthes.github.io/pcc_3e/) of these online resources.
+Esta es una colección de recursos del [Python Crash Course, Third Edition](https://nostarch.com/python-crash-course-3rd-edition), un libro de introducción a la programación de [No Starch Press](https://nostarch.com) by Eric Matthes. Haga clic aquí para una [versión mucho más limpia](https://ehmatthes.github.io/pcc_3e/) de estos recursos en línea.
 
-If you have any questions about Python Crash Course, feel free to get in touch:
+Si tiene alguna pregunta sobre el Curso acelerado de Python, no dude en ponerse en contacto con nosotros:
 
 Email: ehmatthes@gmail.com
 
